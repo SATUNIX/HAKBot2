@@ -20,3 +20,7 @@ Better, thanks to the new support for GGLMv3 and GGUF models. Alot of work to be
 3. Take the data from previous steps (1,2) and provide a single command to execute. 
 4. Execute the command in python and return the tools print out. 
 
+Recources: 
+https://huggingface.co/TheBloke/Spicyboros-13B-2.2-GGUF/blob/main/spicyboros-13b-2.2.Q5_K_M.gguf
+https://huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ
+https://github.com/ggerganov/llama.cpp
